@@ -3,7 +3,7 @@ set -euo pipefail
 
 # Run from repo root (so AGENTS.md and TODO.md resolve predictably).
 
-# MODEL="gpt-5.2-codex"
+# MODEL="gpt-5.3-codex"
 MODEL="gpt-5.2"
 
 # minimal|low|medium|high|xhigh
